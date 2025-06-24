@@ -1,0 +1,14 @@
+.venv/
+**/__pycache__/
+stubs/
+runs/
+**/*.pt
+**/*.pkl
+*/football-players-detection-1/
+**/.ipynb_checkpoints/
+input/*.*
+output/*.*
+models/*.*
+!input/*.md
+!output/*.md
+!models/*.md
