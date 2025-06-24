@@ -11,4 +11,6 @@ output/*.*
 models/*.*
 !input/*.md
 !output/*.md
+!output/*.png
+!output/*.jpg
 !models/*.md
